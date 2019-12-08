@@ -1,2 +1,12 @@
 # my_repo
-Mi primer repositorio
+
+## Seccion 1
+
+Mi primer repositorio - **WT**
+
+- [] uno
+- [] dos
+- [x] tres
+
+
+
